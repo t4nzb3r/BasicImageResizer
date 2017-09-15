@@ -1,0 +1,14 @@
+d:\users\admin\documents\visual studio 2017\Projects\NoggoNoggoResizer\NoggoNoggoResizer\bin\Debug\NoggoNoggoResizer.exe.config
+d:\users\admin\documents\visual studio 2017\Projects\NoggoNoggoResizer\NoggoNoggoResizer\bin\Debug\NoggoNoggoResizer.exe
+d:\users\admin\documents\visual studio 2017\Projects\NoggoNoggoResizer\NoggoNoggoResizer\bin\Debug\NoggoNoggoResizer.pdb
+d:\users\admin\documents\visual studio 2017\Projects\NoggoNoggoResizer\NoggoNoggoResizer\obj\Debug\NoggoNoggoResizer.csprojResolveAssemblyReference.cache
+d:\users\admin\documents\visual studio 2017\Projects\NoggoNoggoResizer\NoggoNoggoResizer\obj\Debug\MainWindow.g.cs
+d:\users\admin\documents\visual studio 2017\Projects\NoggoNoggoResizer\NoggoNoggoResizer\obj\Debug\App.g.cs
+d:\users\admin\documents\visual studio 2017\Projects\NoggoNoggoResizer\NoggoNoggoResizer\obj\Debug\NoggoNoggoResizer_MarkupCompile.cache
+d:\users\admin\documents\visual studio 2017\Projects\NoggoNoggoResizer\NoggoNoggoResizer\obj\Debug\NoggoNoggoResizer_MarkupCompile.lref
+d:\users\admin\documents\visual studio 2017\Projects\NoggoNoggoResizer\NoggoNoggoResizer\obj\Debug\MainWindow.baml
+d:\users\admin\documents\visual studio 2017\Projects\NoggoNoggoResizer\NoggoNoggoResizer\obj\Debug\NoggoNoggoResizer.g.resources
+d:\users\admin\documents\visual studio 2017\Projects\NoggoNoggoResizer\NoggoNoggoResizer\obj\Debug\NoggoNoggoResizer.Properties.Resources.resources
+d:\users\admin\documents\visual studio 2017\Projects\NoggoNoggoResizer\NoggoNoggoResizer\obj\Debug\NoggoNoggoResizer.csproj.GenerateResource.Cache
+d:\users\admin\documents\visual studio 2017\Projects\NoggoNoggoResizer\NoggoNoggoResizer\obj\Debug\NoggoNoggoResizer.exe
+d:\users\admin\documents\visual studio 2017\Projects\NoggoNoggoResizer\NoggoNoggoResizer\obj\Debug\NoggoNoggoResizer.pdb
